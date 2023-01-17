@@ -1,0 +1,138 @@
+body{
+    background: linear-gradient(to left,rgb(52, 7, 110),#05030a);
+    display: flex;
+    size: 150px;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+*{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+    
+
+}
+
+
+
+
+
+
+
+.form-floating {
+    display: block;
+    margin: 20px;
+    padding-top: 10px;
+    }
+    form.head{
+        width: 500px;
+             
+        background: #fff;
+        
+    }
+form {
+    width: 500px;
+    border-radius: 20px;
+    border: 2px solid #ccc;
+    padding: 30px;
+    background: #fff;
+    
+}
+header {
+    text-align: left ;
+    font-size: 30px;
+    font-weight:700;
+    padding-left: 30px;
+    padding-top: 20px;
+    
+    
+    
+    
+                    
+}
+ span{
+    text-align: center;
+    color: rgb(180, 178, 178);
+    
+    font-size: 15px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+  
+    bottom: 60px;
+    
+    
+}
+.banner-text a{
+    
+    
+    border-radius: 16px;
+    
+    
+    width: 170px;
+    margin: 12px auto;
+    text-align: left;
+    
+    color: rgb(236, 5, 5);
+    font-size: 15px;
+    padding: 4%;
+    float: center;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+::placeholder {
+    opacity: 1;
+    
+}
+
+
+input {
+    display: block;
+    border: 2px solid rgb(212, 166, 166);
+    width: 95%;
+    height: 50px;
+    padding: 10px;
+    
+   
+    margin: 10px auto;
+    border-radius: 5px;
+}
+label {
+    color: #888;
+    font-size: 18px;
+    padding: 5px;
+    
+
+}
+small {
+    text-align: end;
+    display: block;
+    
+    range: auto;
+    padding: 5px;
+
+}
+
+  
+button {
+    opacity: 0.8;
+    border: 1px solid #d39309;
+    background-color:  #d39309; ;
+    border-radius: 16px;
+    
+    display: block;
+    
+    
+    width: 170px;
+    height: 40px;
+    margin: 12px auto;
+    text-align: center;
+    
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 1%;
+    float: center;
+}
